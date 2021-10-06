@@ -1,0 +1,4 @@
+#ARGOSTrackingTool.py
+#Description: Reads in an ARGOS file and allows user to view the location of a turtle
+#Author: Juan Rebellon
+#Date: Fall 2021
